@@ -14,8 +14,8 @@ const data = dotenv.config({
 })
 
 
-const TELEGRAM_BOT_TOKEN = "7171664981:AAGuuF_qfxvOkydqXbFhSHcRadN3cRS637Q"; // Reemplaza esto con tu token real de Bot de Telegram
-const TELEGRAM_CHAT_ID = "5746332908";
+const TELEGRAM_BOT_TOKEN = ""; // Reemplaza esto con tu token real de Bot de Telegram
+const TELEGRAM_CHAT_ID = "";
 
 
 
